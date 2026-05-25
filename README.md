@@ -1,6 +1,6 @@
 # 🛒 Advanced E-Commerce Website
 
-A comprehensive, full-stack E-Commerce web application built using html, css, bootstrap, javaScript PHP and MySQL. It features a complete shopping experience for users and a robust management system for admins to handle the online store.
+A comprehensive, full-stack E-Commerce web application built using HTML, CSS, BootStrap, JavaScript PHP and MySQL. It features a complete shopping experience for users and a robust management system for admins to handle the online store.
 
 ---
 
@@ -8,14 +8,14 @@ A comprehensive, full-stack E-Commerce web application built using html, css, bo
 
 * **User Panel:** Product browsing, category filtering, shopping cart management, and secure checkout.
 * **Admin Panel:** Product inventory tracking, order management, user handling, and sales reports.
-* **Responsive UI:** Modern, clean, and fully responsive design built with HTML, CSS, and JavaScript.
+* **Responsive UI:** Modern, clean, and fully responsive design built with HTML, CSS, BootStrap and JavaScript.
 * **Secure Database:** Safe and organized data storage using MySQL for managing users, products, and orders.
 
 ---
 
 ## 🛠️ Tech Stack Used
 
-* **Frontend:** HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, Bootstrap, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL (via XAMPP)
 * **Server Environment:** XAMPP (Apache)
